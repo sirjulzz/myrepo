@@ -7,6 +7,6 @@ output:
     keep_md: true
 ---
 ```{r}
-print("Hello R")
+print("Hello R!")
 ```
 
